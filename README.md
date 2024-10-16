@@ -1,1 +1,7 @@
-# CS-255
+# CS-255 Summary
+
+The DriverPass project involved designing a system for a client, Liam, who wanted to streamline driving lesson reservations and tracking for his company. The goal was to build a system that allowed customers to book lessons online, while also enabling secretaries to manage reservations on behalf of customers. Additionally, the system needed to include user management, driver assignment, and security features to ensure that only authorized personnel could access sensitive data. The system also required flexibility for future updates and compliance with DMV changes, which made scalability and ease of use critical to the design.
+
+One aspect I did well was translating the client’s needs into actionable functional and nonfunctional requirements, ensuring the system addressed key functionalities like booking, security, and user role management. If I could revise one part of my work, it would be the customization of the lesson packages. I would improve it by making the package management more accessible to non-technical users, allowing Liam or his team to add or modify lesson packages without developer intervention. 
+
+Throughout the project, I consistently focused on interpreting the user’s needs by prioritizing ease of use and system reliability. Considering user needs is crucial because it ensures that the system not only functions as intended but is also accessible and effective for those who interact with it daily. In future projects, I plan to continue using techniques like creating use case diagrams, activity diagrams, and clearly defined requirements to align system design closely with user goals and expectations.
